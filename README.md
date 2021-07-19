@@ -1,8 +1,8 @@
 # SCP-Foundation-Database
 
-__________________________
+_
 
      Made by HogeyDev
-__________________________
+_
 
 A copy of the scp-wiki.com
